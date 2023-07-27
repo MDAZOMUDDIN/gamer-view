@@ -1,0 +1,87 @@
+.uddin{
+    display: flex;
+    gap: 7px;
+}
+.colo{
+    color: rgb(224, 85, 224);
+}
+.hoss{
+    display: flex;
+    gap: 7px;
+}
+.azom{
+    display: flex;
+    justify-content: space-around;
+}
+.taka{
+    color: rgb(180, 42, 198);
+}
+.goto{
+    color: aliceblue;
+    background-color: black;
+    border: 0px;
+    border-radius: 5px;
+    padding: 7px;
+
+}
+.hell{
+    color: aliceblue;
+    background-color: blue;
+    border: 0px;
+    border-radius: 5px;
+    padding: 7px;
+    
+}
+.nott{
+    
+    display: flex;
+    justify-content: space-around;
+}
+.coin{
+    margin-top: 10px;
+    background-color: white;
+}
+.dablin{
+    color: rgb(133, 23, 133);
+}
+.london{
+    font-weight: 80px;
+}
+.new{
+    color: aliceblue;
+    background-color: black;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+}
+.dhaka{
+    display: flex;
+    justify-content: space-around;
+}
+.colombo{
+    text-align: end;
+}
+.shes{
+    color: rgb(113, 17, 113);
+}
+.desh{
+    text-align: center;
+}
+#row{
+    font-size: smaller;
+    color: rgb(121, 141, 159);
+}
+.ama{
+    display: flex;
+    justify-content: space-evenly;
+}
+.rica{
+    font: optional;
+    font-size: smaller;
+    text-align: center;
+    justify-content: center;
+}
+.lose:hover{
+    border: 1px solid rgb(179, 21, 21);
+    border-radius: 5px;
+}
