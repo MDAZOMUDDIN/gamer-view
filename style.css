@@ -85,3 +85,93 @@
     border: 1px solid rgb(179, 21, 21);
     border-radius: 5px;
 }
+.kopen{
+    color: rgb(41, 171, 41);
+}
+.hagen{
+    text-align: center;
+}
+.land{
+    display: flex;
+    justify-content:space-around;
+}
+.cool{
+    position: relative;
+    bottom: 50px;
+    right: 30px;
+}
+.brazil{
+    display: flex;
+}
+.holyday{
+    text-align: end;
+}
+.trasa{
+    display: flex;
+    justify-content: space-evenly;
+}
+.aus{
+    background-color: rgb(185, 45, 185);
+    color: white;
+    padding: 0px 20px 0px 20px;
+}
+.brade{
+    color: rgb(161, 38, 161);
+    border: 0px;
+    border-radius: 5px;
+    padding: 7px;
+    position: relative;
+    bottom: 5px;
+}
+.shovon{
+    margin-top: 1rem;
+    background-color: antiquewhite;
+}
+.azom{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.kul,.arafad{
+    display: flex;
+    justify-content: center;
+    
+}
+.azim:hover{
+    color: purple;
+    border: 1px solid rgb(125, 26, 125);
+    border-radius: 10px;
+}
+.ione{
+    color: rgb(189, 42, 189);
+}
+.hoss{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 1rem;
+}
+.maty{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.kayem{
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: rgb(172, 122, 57)
+}
+.taul{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.sab{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.bora{
+    text-align: center;
+}
