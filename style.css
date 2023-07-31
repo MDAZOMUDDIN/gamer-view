@@ -175,8 +175,9 @@
     .azom{
         flex-direction: column;
     }
-    .kul,.arafad{
-        flex-direction: column;
+    .azom>img{
+        height: 70px;
+        width: 70px;
     }
     .hoss{
         flex-direction: column;
