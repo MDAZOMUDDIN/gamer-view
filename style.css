@@ -12,6 +12,13 @@
 .azom{
     display: flex;
     justify-content: space-around;
+    text-align: center;
+}
+@media screen and (max-width: 576px) {
+    .azom{
+        flex-direction:Column;
+    }
+    
 }
 .taka{
     color: rgb(180, 42, 198);
@@ -37,6 +44,15 @@
     display: flex;
     justify-content: space-around;
 }
+@media screen and (max-width:576px) {
+    .nott{
+        flex-direction: Column;
+    }
+    .coin{
+        flex-direction: column;
+    }
+    
+}
 .coin{
     margin-top: 10px;
     background-color: white;
@@ -58,6 +74,11 @@
     display: flex;
     justify-content: space-around;
 }
+@media screen and (max-width: 576px) {
+    .dhaka{
+        flex-direction: column;
+    }
+}
 .colombo{
     text-align: end;
 }
@@ -74,6 +95,12 @@
 .ama{
     display: flex;
     justify-content: space-evenly;
+}
+@media screen and (max-width: 576px) {
+    .ama{
+        flex-direction: column;
+    }
+    
 }
 .rica{
     font: optional;
@@ -95,6 +122,12 @@
     display: flex;
     justify-content:space-around;
 }
+@media screen  and (max-width:576px) {
+    .land{
+        flex-direction: column;
+    }
+    
+}
 .cool{
     position: relative;
     bottom: 50px;
@@ -109,6 +142,12 @@
 .trasa{
     display: flex;
     justify-content: space-evenly;
+}
+@media screen and (max-width: 576px) {
+    .trasa{
+        flex-direction: column;
+    }
+    
 }
 .aus{
     background-color: rgb(185, 45, 185);
@@ -131,6 +170,24 @@
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
+}
+@media screen and (max-width: 576px) {
+    .azom{
+        flex-direction: column;
+    }
+    .kul,.arafad{
+        flex-direction: column;
+    }
+    .hoss{
+        flex-direction: column;
+    }
+    .maty{
+        flex-direction: column;
+    }
+    .taul{
+        flex-direction: column;
+    }
+    
 }
 
 .kul,.arafad{
@@ -171,6 +228,12 @@
     display: flex;
     justify-content: center;
     gap: 1rem;
+}
+@media  screen and (max-width: 576px) {
+    .sab{
+        flex-direction: column;
+    }
+    
 }
 .bora{
     text-align: center;
